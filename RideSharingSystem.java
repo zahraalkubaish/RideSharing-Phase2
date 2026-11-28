@@ -1,3 +1,11 @@
+/**
+ * Student B — rider/driver management, nine BST indexes, statistics and CSV import.
+ *
+ * Shared system class: the ride-scheduling methods at the bottom are reserved for
+ * Student C. They currently throw UnsupportedOperationException until integrated.
+ *
+ * Compile with the supplied default-package source files in code/.
+ */
 import java.io.BufferedReader;
 import java.io.FileReader;
 import java.io.IOException;
